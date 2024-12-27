@@ -1,6 +1,6 @@
 [project]
 name = "benchman"
-version = "0.0.1"
+version = "0.0.2a1"
 description = "Generate and analyze micro benchmarks"
 keywords = [
   "benchmark", "micro benchmark", "performance", "analysis", "reporting"
