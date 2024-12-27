@@ -1,8 +1,10 @@
 [project]
 name = "benchman"
 version = "0.0.1"
-description = "Generate and analyse micro benchmarks"
-keywords = ["benchmark", "microbenchmark", "performance", "analysis"]
+description = "Generate and analyze micro benchmarks"
+keywords = [
+  "benchmark", "micro benchmark", "performance", "analysis", "reporting"
+ ]
 authors = [
     { name = "Martin Wendt", email = "benchman@wwwendt.de" }
 ]
